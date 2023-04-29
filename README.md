@@ -1,2 +1,2 @@
 # level1_task1
-I developed personal portfolio website using HTML &amp; CSS
+I developed Landing page of T-series website using HTML & CSS
